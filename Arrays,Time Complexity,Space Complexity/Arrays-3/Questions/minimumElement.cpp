@@ -17,7 +17,7 @@ int findMinimumIn2DArray(int arr[0][4],int rowSize,int colSize){
 int main(){
     int arr[3][4]={
         {10,11,12,13},
-        {20,21,22,23},
+        {20,-2,22,23},
         {31,32,44,55}
     };
     int rowSize=3;
