@@ -14,7 +14,7 @@
             if (cnt <= mid) {
                 low = mid + 1;
             } else {
-                high = mid;
+                high = mid ;
             }
         }
 
